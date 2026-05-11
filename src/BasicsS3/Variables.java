@@ -7,7 +7,6 @@ public class Variables {
         System.out.println("c = " + c);
 
         int age; //valid
-        int
         /*
         int a ge; //invalid
         int 3age; //invalid
